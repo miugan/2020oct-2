@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="table1007">ad76714c1b3bd050dfc0edf32a4bcb7e</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>table1007s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_2020_oct_no2_table1007</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_2020_oct_no2.table1007_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-07 01:42:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2976714c1b3bd050dfc0edf32a4bcb82</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table1007s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="2020-oct-no2" source="x_snc_2020_oct_no2">e336f9881b3bd050dfc0edf32a4bcb2e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="2020-oct-no2">e336f9881b3bd050dfc0edf32a4bcb2e</sys_scope>
+        <sys_update_name>sys_app_module_2976714c1b3bd050dfc0edf32a4bcb82</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-07 01:42:38</sys_updated_on>
+        <timeline_page/>
+        <title>table1007s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

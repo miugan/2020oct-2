@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table1007" max_length="40" name="x_snc_2020_oct_no2_table1007" type="collection">
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="refgrp1" max_length="32" name="refgrp1" reference="sys_user_group" type="reference"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#13;&#10;&#9;// Add your code here&#13;&#10;&#9;return '';  // return the calculated value&#13;&#10;&#13;&#10;})(current);" label="Refuser1" max_length="32" name="refuser1" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="refgrp1"/>
+        </index>
+        <index name="index2">
+            <element name="refuser1"/>
+        </index>
+    </element>
+</database>
